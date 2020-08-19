@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "979605589872",
+    "firebase_url": "https://fruits4u-b6b48.firebaseio.com",
+    "project_id": "fruits4u-b6b48",
+    "storage_bucket": "fruits4u-b6b48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979605589872:android:7205bc360d4a6b752009b5",
+        "android_client_info": {
+          "package_name": "com.example.shoppingappadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979605589872-9f0ppoohppufi7prgf441di97gf6q51r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppingappadmin",
+            "certificate_hash": "e3cc12bcbdfb6d351a0983cd6e8430fcf21f79ce"
+          }
+        },
+        {
+          "client_id": "979605589872-eb8rijj8j61lelrb9s0tgidigqt539pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnB7lJXmMLE5vNzORrM1mwGNpxqaATCLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979605589872-eb8rijj8j61lelrb9s0tgidigqt539pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
