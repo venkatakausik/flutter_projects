@@ -1,4 +1,4 @@
-# shoppingapp
+# fruit-purchase app
 
 A new Flutter application.
 
